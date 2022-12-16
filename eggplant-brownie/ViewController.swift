@@ -13,7 +13,5 @@ class ViewController: UIViewController {
     @IBAction func adicionar() {
         print("alimento:--")
     }
-    
-
 }
 
