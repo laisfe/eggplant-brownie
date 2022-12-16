@@ -67,6 +67,10 @@
                             <constraint firstItem="pPu-dg-DJp" firstAttribute="centerY" secondItem="zTc-Lx-pLr" secondAttribute="centerY" id="y3C-8e-Vsl"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="felicidadeTextField" destination="4wN-Vb-Ftd" id="H3o-LP-NA1"/>
+                        <outlet property="nomeTextField" destination="zTc-Lx-pLr" id="Bhm-S5-keY"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
