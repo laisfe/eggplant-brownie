@@ -43,7 +43,7 @@
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="filled" title="Adicionar"/>
                                 <connections>
-                                    <action selector="adicionar:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nHk-ZK-XwB"/>
+                                    <action selector="adicionar" destination="BYZ-38-t0r" eventType="touchUpInside" id="45d-Rg-TrC"/>
                                 </connections>
                             </button>
                         </subviews>
